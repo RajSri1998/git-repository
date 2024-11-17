@@ -1,0 +1,2 @@
+Rebase is not done from the master , it is always doen from the associated branch.
+upstream branch means the code can directly be pushed to remote by just giving git push command 
